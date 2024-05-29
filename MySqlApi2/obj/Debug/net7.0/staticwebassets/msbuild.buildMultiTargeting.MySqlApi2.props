@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MySqlApi2.props" />
+</Project>
